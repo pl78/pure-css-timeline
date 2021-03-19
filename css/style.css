@@ -21,7 +21,7 @@
 .timestamp__body {
   width: calc(100% - var(--step-size) / 2 - var(--space-from-step));
   position: relative;
-  background-color: yellow;
+  background-color: brown;
   margin-left: calc(var(--step-size) + var(--step-size) / 2);
 }
 
